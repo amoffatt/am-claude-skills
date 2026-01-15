@@ -1,0 +1,24 @@
+{
+  "name": "lsp-client-project",
+  "version": "1.0.0",
+  "description": "TypeScript LSP client for interacting with language servers",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx watch",
+    "start": "tsx"
+  },
+  "keywords": [
+    "lsp",
+    "language-server",
+    "typescript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {}
+}
