@@ -1,0 +1,10 @@
+{
+  "name": "am-coding-marketplace",
+  "description": "Local marketplace for am-coding plugins",
+  "plugins": [
+    {
+      "name": "am-coding",
+      "path": "."
+    }
+  ]
+}
