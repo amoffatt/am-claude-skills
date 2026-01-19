@@ -1,0 +1,11 @@
+{
+  "name": "am-skills",
+  "description": "Custom skills for Azure Functions, code quality analysis, Claude Agent SDK, language server integration, and Swift Foundation Models",
+  "version": "1.0.0",
+  "author": {
+    "name": "amoffatt"
+  },
+  "repository": "https://github.com/amoffatt/am-claude-skills",
+  "license": "MIT",
+  "keywords": ["azure", "functions", "code-quality", "lsp", "swift"]
+}
